@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="20.647">
+    <testcase classname="Facebook" name="Facebook_Login" time="20.482">
+        <system-out><![CDATA[Given user navigate the facebook url "https://www.facebook.com/"............passed
+When user enter the username  "asdfgh" in the username Field................passed
+And user enter the password  "12345678" in the Password Field...............passed
+And user clicks on the Login button.........................................passed
+Then i need to verify invalid username "Invalid username or password".......passed
+]]></system-out>
+    </testcase>
+</testsuite>
